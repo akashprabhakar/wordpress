@@ -1,0 +1,7 @@
+Installing LARAVEL
+
+1)Install composer
+
+curl -sS https://getcomposer.org/installer | php
+
+2)

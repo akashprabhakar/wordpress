@@ -1,0 +1,61 @@
+/*
+
+Theme Name: Looki Lite
+Theme URI: http://themeinprogress.com/looki/
+Description: Looki is a great and clean free WordPress blog theme, with a awesome scrollable sidebar, optimized for the mobile devices and based on Bootstrap framework. The theme support all modern browsers like Firefox, Chrome, Safari, Opera and Internet Explorer 8, 9 and 10 and uses the most modern technologies like Html5 and Css3.
+Author: Theme in Progress.
+Author URI: http://themeinprogress.com
+Version: 1.0.9
+Tags: red,green,yellow,pink,orange,blue, custom-background, custom-menu, full-width-template, light, responsive-layout, theme-options, translation-ready, one-column
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Looki Lite WordPress Theme, Copyright 2014 WordPress.org
+Looki Lite is distributed under the terms of the GNU GPL v3
+
+*/
+
+a, a:visited {
+  color: #4099FF;
+  text-decoration: none;
+}
+
+.wrapper1 {
+  margin: 10px;
+  width: 350px;
+  height: 150px;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  float:left;
+  box-shadow: 0 0 10px #ddd;
+  overflow: hidden;
+
+}
+
+img.usr-img {
+  float: left;
+  width: 125px;
+  height: 150px;
+  border-right: 1px solid #eee;
+}
+
+.user-article {
+  float: right;
+  padding: 14px 25px 20px;
+  width: 200px;
+
+  border-bottom: 1px solid #eee;
+}
+
+.user-article h2 {
+  margin: 1px 0 7px;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.user-article p {
+  font-size: 1.1rem;
+  line-height: 1.5rem;
+}
+
+
